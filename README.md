@@ -1,6 +1,6 @@
 # POLIMI-Thesis
 
-![Politecnico di Milano](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Logo_Politecnico_Milano.png/600px-Logo_Politecnico_Milano.png)
+![Politecnico di Milano](https://upload.wikimedia.org/wikipedia/it/b/be/Logo_Politecnico_Milano.png)
 
 MSc Thesis in Computer Science and Engineering - Politecnico di Milano
 
