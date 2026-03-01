@@ -4,15 +4,9 @@ MSc Thesis in Computer Science and Engineering - Politecnico di Milano
 
 **Graduated:** March 2026
 
-Author: Lorenzo Romandini (ID: 10939723)
+Author: Lorenzo Romandini
 
 Advisor: Prof. Chiara Francalanci
-
----
-
-## Notice
-
-Due to an NDA (Non-Disclosure Agreement) signed with a third party, the full thesis content cannot be publicly disclosed. This repository serves as a local container for the thesis files and demonstrates the work completed for the MSc degree to potential readers or employers.
 
 ---
 
@@ -43,3 +37,9 @@ Lo studio adotta un approccio analitico descrittivo nel quale i modelli di appre
 I risultati evidenziano che gli indici di vegetazione aggregati mantengono segnali separabili chiari nel caso di disturbi improvvisi quali la deforestazione, mentre i processi di degrado graduale associati alla desertificazione mostrano livelli di separabilità più deboli. Tale contrasto riflette una osservabilità dipendente dal processo, in cui variazioni della vegetazione a bassa ampiezza risultano attenuate dall'aggregazione spaziale, dalla variabilità ambientale e dalla semantica dei proxy utilizzati. Nel complesso, il lavoro mette in luce sia il potenziale sia i limiti strutturali degli indici di vegetazione a risoluzione grossolana per l'analisi del degrado ambientale e sottolinea l'importanza di interpretare i risultati del telerilevamento in relazione alla scala di osservazione e ai vincoli rappresentazionali.
 
 **Parole chiave:** degrado del suolo, telerilevamento, indici di vegetazione, deforestazione, desertificazione, aggregazione spaziale.
+
+---
+
+## Notice
+
+Due to an NDA (Non-Disclosure Agreement) signed with a third party, the full thesis content cannot be publicly disclosed. This repository serves as a local container for the thesis files and demonstrates the work completed for the MSc degree to potential readers or employers.
