@@ -12,7 +12,7 @@ Advisor: Prof. Chiara Francalanci
 
 ## Brief Description
 
-This thesis explores the detectability of environmental degradation (deforestation and desertification) using coarse-resolution satellite vegetation indices. Using MODIS MOD09A1 data (NDVI, SAVI, NDMI, NDWI) aggregated to geohash-based spatial units, the study applies Random Forest models as statistical probes to assess whether vegetation index time series retain separable signals associated with land degradation processes in Myanmar (deforestation), Mozambique, and Ethiopia (desertification) from 2018 to 2024.
+This thesis explores the detectability of environmental degradation (deforestation and desertification) using coarse-resolution satellite vegetation indices. Using MODIS MOD09A1 data (NDVI, SAVI, NDMI, NDWI) aggregated to geohash-based spatial units, the study applies Random Forest models as statistical probes to assess whether vegetation index time series retain separable signals associated with land degradation processes in Myanmar (deforestation - using Hansen Global Forest Change as reference), Mozambique and Ethiopia (desertification - using SDG Land Productivity Decline as reference) from 2018 to 2024.
 
 ---
 
