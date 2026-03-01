@@ -1,6 +1,4 @@
-# POLIMI-Thesis
-
-![Politecnico di Milano](https://upload.wikimedia.org/wikipedia/it/b/be/Logo_Politecnico_Milano.png)
+# Detecting signals of deforestation and desertification using vegetation indices: Evidence on Myanmar, Mozambique and Ethiopia use cases
 
 MSc Thesis in Computer Science and Engineering - Politecnico di Milano
 
